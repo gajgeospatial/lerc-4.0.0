@@ -1,0 +1,4 @@
+N:/Development/Dev_Base/lerc-4.0.0/msvc/CMakeFiles/Lerc.dir
+N:/Development/Dev_Base/lerc-4.0.0/msvc/CMakeFiles/INSTALL.dir
+N:/Development/Dev_Base/lerc-4.0.0/msvc/CMakeFiles/ALL_BUILD.dir
+N:/Development/Dev_Base/lerc-4.0.0/msvc/CMakeFiles/ZERO_CHECK.dir

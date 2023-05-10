@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lerc", "Lerc.vcxproj", "{4645229B-EF3D-3402-BE1D-BFF4485301BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		vs2019_Debug|x64 = vs2019_Debug|x64
+		vs2019_Release|x64 = vs2019_Release|x64
+		vs2022_Debug|x64 = vs2022_Debug|x64
+		vs2022_Release|x64 = vs2022_Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4645229B-EF3D-3402-BE1D-BFF4485301BB}.vs2019_Debug|x64.ActiveCfg = vs2019_Debug|x64
+		{4645229B-EF3D-3402-BE1D-BFF4485301BB}.vs2019_Debug|x64.Build.0 = vs2019_Debug|x64
+		{4645229B-EF3D-3402-BE1D-BFF4485301BB}.vs2019_Release|x64.ActiveCfg = vs2019_Release|x64
+		{4645229B-EF3D-3402-BE1D-BFF4485301BB}.vs2019_Release|x64.Build.0 = vs2019_Release|x64
+		{4645229B-EF3D-3402-BE1D-BFF4485301BB}.vs2022_Debug|x64.ActiveCfg = vs2022_Debug|x64
+		{4645229B-EF3D-3402-BE1D-BFF4485301BB}.vs2022_Debug|x64.Build.0 = vs2022_Debug|x64
+		{4645229B-EF3D-3402-BE1D-BFF4485301BB}.vs2022_Release|x64.ActiveCfg = vs2022_Release|x64
+		{4645229B-EF3D-3402-BE1D-BFF4485301BB}.vs2022_Release|x64.Build.0 = vs2022_Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42B46091-83D1-3BDB-B8D9-38C606C633B2}
+	EndGlobalSection
+EndGlobal
